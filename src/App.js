@@ -11,10 +11,7 @@ export default function App() {
         <Col xs={5}>
           <ListGroup variant='flush'>
             <ListGroup.Item style={{textAlign:"center"}}>
-              <a rel="noreferrer" href="https://bitwarden.jimapps.tools" target="_blank">Bitwarden</a>
-            </ListGroup.Item>
-            <ListGroup.Item style={{textAlign:"center"}}>
-              More Soon
+              <a rel="noreferrer" href="https://drive.google.com/file/d/1-thgsx1htkwvYTruqaU5ACZj72fN-yYk/view">Demo</a>
             </ListGroup.Item>
           </ListGroup>
         </Col>
